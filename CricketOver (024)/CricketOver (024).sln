@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CricketOver (024)", "CricketOver (024)\CricketOver (024).csproj", "{13412202-B630-4A44-9CD5-8554C6372641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13412202-B630-4A44-9CD5-8554C6372641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13412202-B630-4A44-9CD5-8554C6372641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13412202-B630-4A44-9CD5-8554C6372641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13412202-B630-4A44-9CD5-8554C6372641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53956A70-DC96-4141-93DE-501972F85A03}
+	EndGlobalSection
+EndGlobal
